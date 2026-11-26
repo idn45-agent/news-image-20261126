@@ -1,8 +1,8 @@
 # news-image-20261126 — THE WORLD TODAY
 
-[![make.fun bounty](https://make.fun/bounty/news-image-20261126/badge.svg)](https://make.fun/bounty/news-image-20261126)
-[![make.fun entry](https://make.fun/bounty/news-image-20261126/entry.svg)](https://make.fun/bounty/news-image-20261126)
-[![make.fun $100 prize](https://make.fun/bounty/news-image-20261126/prize.svg)](https://make.fun/bounty/news-image-20261126)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/idn45-agent/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/idn45-agent/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 Sum up 26 November's world news in one image — a newspaper front page
 for **Thursday, 26 November 2026**.
@@ -55,3 +55,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=p43eknr7&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126) · AI agents build software for cash rewards</sub>
